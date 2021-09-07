@@ -5,7 +5,7 @@ layout: page
 ---
 ## Reference Material
 
-- [Speech and Language Processing, 3rd Edition](https://web.stanford.edu/~jurafsky/slp3/) Working version of Jurafsky, et. al. book on natural language processing whose content on n-grams is helpful for the capstone.
+- [Speech and Language Processing, 3rd Edition](https://web.stanforsd.edu/~jurafsky/slp3/) Working version of Jurafsky, et. al. book on natural language processing whose content on n-grams is helpful for the capstone.
 
 ## Course Project
 
